@@ -1,0 +1,38 @@
+# Web framework
+fastapi==0.115.9
+uvicorn[standard]
+
+# GROQ client
+groq
+
+# HTTP requests
+httpx
+
+# Env vars
+python-dotenv
+
+# Vector store & LangChain
+langchain>=0.1.0
+chromadb>=0.4.0,<0.7.0
+langchain-community
+
+# Embeddings and NLP
+sentence-transformers   # for HuggingFaceEmbeddings
+transformers
+torch
+
+# PDF parsing
+pypdf
+PyMuPDF
+PyPDF2                 # alternative PDF reader
+
+# Tokenization and utilities
+tiktoken
+numpy
+loguru                  # logging
+
+
+
+
+
+
