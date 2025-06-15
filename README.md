@@ -1,6 +1,6 @@
 
 
-#  NutriBot 🥝 - AI Powered Nutrition Chatbot
+#  SpotSphere 🥝 - AI Powered Nutrition Chatbot
 Welcome to **NutriBot**, your go to assistant **trained on the nutritional properties of fruits and vegetables**. NutriBot excels at answering detailed questions such as _“Why does eating potato skin provide more iron than eating potato flesh?”_ by grounding every response in the source PDF data along with page numbre from that pdf.
 
 ---
