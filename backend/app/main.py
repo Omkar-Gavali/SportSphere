@@ -17,7 +17,7 @@ app = FastAPI()
 # --- CORS Setup ---
 origins = [
     "http://localhost:3000",                  # your local Next.js dev server
-    "https://ai-chatbot-1-psi.vercel.app",    # your Vercel-hosted frontend
+    "https://sport-sphere-sepia.vercel.app/",    # your Vercel-hosted frontend
 ] # Allow all for now (better to restrict later!)
 
 app.add_middleware(
