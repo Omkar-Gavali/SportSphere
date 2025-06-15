@@ -52,7 +52,7 @@ export default function Home() {
       <div className="flex flex-col w-full max-w-lg h-[80vh] bg-white rounded-2xl border-2 border-charcoal shadow-2xl overflow-hidden">
         {/* Header */}
         <header className="bg-gradient-to-r from-mint to-lemon text-white text-5xl font-extrabold py-4 text-center">
-          NutriBot🥝
+          SportSphere⚽
         </header>
 
         {/* Accent Bar */}
