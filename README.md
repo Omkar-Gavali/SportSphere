@@ -1,21 +1,18 @@
 
 
-#  SpotSphere 🥝 - AI Powered Nutrition Chatbot
+#  SportSphere 🥝 - AI Powered Nutrition Chatbot
 Welcome to **NutriBot**, your go to assistant **trained on the nutritional properties of fruits and vegetables**. NutriBot excels at answering detailed questions such as _“Why does eating potato skin provide more iron than eating potato flesh?”_ by grounding every response in the source PDF data along with page numbre from that pdf.
 
 ---
 
 ## 🌐 Live Demo
 
-👉 **Check out the live version here:**  [🔗 NutriBot ](https://ai-chatbot-1-psi.vercel.app/)
+👉 **Check out the live version here:**  [🔗 NutriBot ](https://sport-sphere-sepia.vercel.app/)
 
-### 💬 Try Asking NutriBot
+### 💬 Try Asking Bot
 
-- **How does iron deficiency impact human health, including work capacity and immune function?**  
-- **Why does eating potato skin provide more iron than eating potato flesh?**  
-- **What are some primary dietary sources of iron in the American food supply?** 
-- **How are the metabolic fates of copper and iron related?**
-- **What causes fruits to turn brown after we cut them?**
+- **Suggest me a  sport with less running  **  
+
 
 
 
@@ -26,9 +23,7 @@ Welcome to **NutriBot**, your go to assistant **trained on the nutritional prope
 
 ---
 
-### **NutriBot Data Source**
 
-Vicente, A. R., Ortiz, C. M., Sozzi, G. O., Manganaris, G. A., & Crisosto, C. H. (2014). *Nutritional properties of fruits and vegetables*. In Postharvest Biology and Technology of Fruits, Vegetables, and Flowers (pp. 69–122). Elsevier. https://doi.org/10.1016/B978-0-12-408137-6.00005-3 :contentReference[oaicite:1]{index=1}
 
 ---
  # Key Features  
@@ -66,8 +61,8 @@ Vicente, A. R., Ortiz, C. M., Sozzi, G. O., Manganaris, G. A., & Crisosto, C. H.
 ## 🚀 How to Deploy Locally
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/Omkar-Gavali/ai-chatbot.git
-cd ai-chatbot
+git clone https://github.com/Omkar-Gavali/sport-sphere.git
+cd sport-sphere
 ```
 
 ### 2. Backend Setup
@@ -199,7 +194,7 @@ MIT License © 2025
  We welcome your ideas, whether it’s adding new PDF loaders, improving UI/UX, or experimenting with embedding models. Please **fork**, **commit**, and **open a pull request** your contributions drive NutriBot toward a healthier, AI-empowered world! 
  
 ## 📚 Knowledge Multiplier  
-_"Every PDF you upload expands NutriBot’s ability to provide deeper, more connected nutritional insights. The future of personalized nutrition begins with the documents you share."_
+_"Every PDF you upload expands Sport Sphere’s ability to provide deeper, more connected nutritional insights. The future of personalized nutrition begins with the documents you share."_
 
 
 ---
